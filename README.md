@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @soynassir
-- 👀 I’m interested in Web Development, Crypto and NFT Art
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on any of my projects
+- 👀 I’m interested in Web Development, Crypto and NFT Art.
+- 🌱 I’m currently learning JavaScript.
+- 💞️ I’m looking to collaborate on any of my projects.
 - 📫 How to reach me @soynassir
 
 <!---
